@@ -1,0 +1,8 @@
+{
+   "app": "./build/app/ProjectOfUITest.app",
+   "scheme-path": "./ProjectOfUITest.xcodeproj/xcshareddata/xcschemes/ProjectOfUITest.xcscheme",
+   "output-dir": "./build/",
+   "runner-app-path": "./build/app/ProjectOfUITestUITests-Runner.app",
+   "repeat-count": 0,
+   "num-sims": 5
+}

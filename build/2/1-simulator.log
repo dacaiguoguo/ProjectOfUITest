@@ -1,0 +1,136 @@
+--------------------------------------------------------------------------------
+Tests started: 2017-05-22 07:21:35 +0000
+--------------------------------------------------------------------------------
+DEBUG_FLAG_TOBEREMOVED.
+2017-05-22 15:21:58.235 XCTRunner[49973:1867149] Running tests...
+2017-05-22 15:22:01.297 XCTRunner[49973:1867149] Continuing to run tests in the background with task ID 1
+Test Suite 'Selected tests' started at 2017-05-22 15:22:01.844
+XCTestOutputBarrierTest Suite 'ProjectOfUITestUITests.xctest' started at 2017-05-22 15:22:01.845
+XCTestOutputBarrierTest Suite 'ProjectOfUITestUITests' started at 2017-05-22 15:22:01.845
+XCTestOutputBarrierTest Case '-[ProjectOfUITestUITests test3]' started.
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-05-22 15:22:01.845
+    t =     0.00s     Set Up
+    t =     0.01s         Launch com.Lvmama.ProjectOfUITest
+    t =     5.50s             Wait for app to idle
+    t =     6.91s     Tap "testTextFiled" TextField
+    t =     6.92s         Wait for app to idle
+    t =     7.06s         Find the "testTextFiled" TextField
+    t =     7.06s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =     7.10s             Find: Descendants matching type TextField
+    t =     7.10s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =     7.21s             Wait for app to idle
+    t =     7.35s         Synthesize event
+    t =     7.48s         Wait for app to idle
+    t =     8.19s     Type 'test3' into "testTextFiled" TextField
+    t =     8.19s         Wait for app to idle
+    t =     8.45s         Find the "testTextFiled" TextField
+    t =     8.46s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =     8.53s             Find: Descendants matching type TextField
+    t =     8.53s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =     8.64s             Wait for app to idle
+    t =     8.86s         Synthesize event
+    t =     8.99s         Wait for app to idle
+    t =     9.17s     Long press "testTextFiled" TextField
+    t =     9.17s         Wait for app to idle
+    t =     9.33s         Find the "testTextFiled" TextField
+    t =     9.33s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =     9.39s             Find: Descendants matching type TextField
+    t =     9.39s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =     9.50s             Wait for app to idle
+    t =     9.85s         Synthesize event
+    t =    69.93s         Wait for app to idle
+    t =    70.24s     Tear Down
+Test Case '-[ProjectOfUITestUITests test3]' passed (70.445 seconds).
+XCTestOutputBarrierTest Case '-[ProjectOfUITestUITests test4]' started.
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-05-22 15:23:12.291
+    t =     0.00s     Set Up
+    t =     0.10s         Launch com.Lvmama.ProjectOfUITest
+    t =     0.23s             Terminate com.Lvmama.ProjectOfUITest:50027
+    t =     5.46s             Wait for app to idle
+    t =     6.90s     Tap "testTextFiled" TextField
+    t =     6.90s         Wait for app to idle
+    t =     7.03s         Find the "testTextFiled" TextField
+    t =     7.03s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =     7.08s             Find: Descendants matching type TextField
+    t =     7.08s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =     7.19s             Wait for app to idle
+    t =     7.33s         Synthesize event
+    t =     7.45s         Wait for app to idle
+    t =     7.62s     Type 'test4' into "testTextFiled" TextField
+    t =     7.62s         Wait for app to idle
+    t =     7.76s         Find the "testTextFiled" TextField
+    t =     7.76s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =     7.83s             Find: Descendants matching type TextField
+    t =     7.83s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =     7.94s             Wait for app to idle
+    t =     8.08s         Synthesize event
+    t =     8.21s         Wait for app to idle
+    t =     8.74s     Long press "testTextFiled" TextField
+    t =     8.74s         Wait for app to idle
+    t =     9.06s         Find the "testTextFiled" TextField
+    t =     9.06s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =     9.11s             Find: Descendants matching type TextField
+    t =     9.11s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =     9.22s             Wait for app to idle
+    t =     9.46s         Synthesize event
+    t =    69.55s         Wait for app to idle
+    t =    69.87s     Tear Down
+Test Case '-[ProjectOfUITestUITests test4]' passed (70.072 seconds).
+XCTestOutputBarrierTest Suite 'ProjectOfUITestUITests' passed at 2017-05-22 15:24:22.363.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 140.517 (140.518) seconds
+XCTestOutputBarrierTest Suite 'ProjectOfUITestUITests.xctest' passed at 2017-05-22 15:24:22.363.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 140.517 (140.518) seconds
+XCTestOutputBarrierTest Suite 'Selected tests' passed at 2017-05-22 15:24:22.363.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 140.517 (140.519) seconds
+XCTestOutputBarrier
+BP_APP_PROC_ENDED
+--------------------------------------------------------------------------------
+Tests started: 2017-05-22 07:39:03 +0000
+--------------------------------------------------------------------------------
+DEBUG_FLAG_TOBEREMOVED.
+2017-05-22 15:40:50.547 XCTRunner[54144:1913909] Running tests...
+2017-05-22 15:40:57.168 XCTRunner[54144:1913909] Continuing to run tests in the background with task ID 1
+Test Suite 'Selected tests' started at 2017-05-22 15:40:57.919
+XCTestOutputBarrierTest Suite 'ProjectOfUITestUITests.xctest' started at 2017-05-22 15:40:57.920
+XCTestOutputBarrierTest Suite 'ProjectOfUITestUITests' started at 2017-05-22 15:40:57.920
+XCTestOutputBarrierTest Case '-[ProjectOfUITestUITests test2]' started.
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-05-22 15:40:57.921
+    t =     0.00s     Set Up
+    t =     0.00s         Launch com.Lvmama.ProjectOfUITest
+    t =    65.93s             Assertion Failure: ProjectOfUITestUITests.m:25: App state is still not running, state = Not Running
+/Users/sunyanguo/Documents/lvioscode/ios_app/ProjectOfUITest/ProjectOfUITestUITests/ProjectOfUITestUITests.m:25: error: -[ProjectOfUITestUITests test2] : App state is still not running, state = Not Running
+XCTestOutputBarrier    t =    65.93s     Tear Down
+Test Case '-[ProjectOfUITestUITests test2]' failed (65.931 seconds).
+XCTestOutputBarrierTest Suite 'ProjectOfUITestUITests' failed at 2017-05-22 15:42:03.852.
+	 Executed 1 test, with 1 failure (0 unexpected) in 65.931 (65.932) seconds
+XCTestOutputBarrierTest Suite 'ProjectOfUITestUITests.xctest' failed at 2017-05-22 15:42:03.852.
+	 Executed 1 test, with 1 failure (0 unexpected) in 65.931 (65.932) seconds
+XCTestOutputBarrierTest Suite 'Selected tests' failed at 2017-05-22 15:42:03.853.
+	 Executed 1 test, with 1 failure (0 unexpected) in 65.931 (65.934) seconds
+XCTestOutputBarrierXCTestOutputBarrier
+BP_APP_PROC_ENDED
+--------------------------------------------------------------------------------
+Tests started: 2017-05-22 07:44:50 +0000
+--------------------------------------------------------------------------------
+DEBUG_FLAG_TOBEREMOVED.
+2017-05-22 15:46:33.389 XCTRunner[55750:1959543] Running tests...
+2017-05-22 15:46:35.923 XCTRunner[55750:1959543] Continuing to run tests in the background with task ID 1
+Test Suite 'Selected tests' started at 2017-05-22 15:46:36.685
+XCTestOutputBarrierTest Suite 'ProjectOfUITestUITests.xctest' started at 2017-05-22 15:46:36.686
+XCTestOutputBarrierTest Suite 'ProjectOfUITestUITests' started at 2017-05-22 15:46:36.686
+XCTestOutputBarrierTest Case '-[ProjectOfUITestUITests test2]' started.
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-05-22 15:46:36.686
+    t =     0.00s     Set Up
+    t =     0.01s         Launch com.Lvmama.ProjectOfUITest
+    t =    64.93s             Assertion Failure: ProjectOfUITestUITests.m:25: App state is still not running, state = Not Running
+/Users/sunyanguo/Documents/lvioscode/ios_app/ProjectOfUITest/ProjectOfUITestUITests/ProjectOfUITestUITests.m:25: error: -[ProjectOfUITestUITests test2] : App state is still not running, state = Not Running
+XCTestOutputBarrier    t =    64.93s     Tear Down
+Test Case '-[ProjectOfUITestUITests test2]' failed (64.934 seconds).
+XCTestOutputBarrierTest Suite 'ProjectOfUITestUITests' failed at 2017-05-22 15:47:41.620.
+	 Executed 1 test, with 1 failure (0 unexpected) in 64.934 (64.935) seconds
+XCTestOutputBarrierTest Suite 'ProjectOfUITestUITests.xctest' failed at 2017-05-22 15:47:41.621.
+	 Executed 1 test, with 1 failure (0 unexpected) in 64.934 (64.935) seconds
+XCTestOutputBarrierTest Suite 'Selected tests' failed at 2017-05-22 15:47:41.621.
+	 Executed 1 test, with 1 failure (0 unexpected) in 64.934 (64.936) seconds
+XCTestOutputBarrierXCTestOutputBarrier
+BP_APP_PROC_ENDED

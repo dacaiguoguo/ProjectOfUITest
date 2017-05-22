@@ -1,0 +1,7 @@
+{"date" : "2017-05-22T15:24:26GMT+08:00",
+"results" : [{"testCaseFullName" : "ProjectOfUITestUITests/test1", "time" : 69.943000},
+{"testCaseFullName" : "ProjectOfUITestUITests/test2", "time" : 70.071000}]}
+{"date" : "2017-05-22T15:41:23GMT+08:00",
+"results" : [{"testCaseFullName" : "ProjectOfUITestUITests/test1", "time" : 73.533000}]}
+{"date" : "2017-05-22T15:47:15GMT+08:00",
+"results" : [{"testCaseFullName" : "ProjectOfUITestUITests/test1", "time" : 73.754000}]}

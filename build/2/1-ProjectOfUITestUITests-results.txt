@@ -1,0 +1,235 @@
+
+Test: Selected tests
+Start: 2017-05-22 07:22:01 +0000
+End: 2017-05-22 07:24:22 +0000
+Ended: YES
+Passed: YES
+Total: 2
+Fail: 0
+Unexpected: 0
+Time: 140.519000
+Log:
+XCTestOutputBarrier
+
+
+Test: ProjectOfUITestUITests.xctest
+Start: 2017-05-22 07:22:01 +0000
+End: 2017-05-22 07:24:22 +0000
+Ended: YES
+Passed: YES
+Total: 2
+Fail: 0
+Unexpected: 0
+Time: 140.518000
+Log:
+(null)
+
+Test: ProjectOfUITestUITests
+Start: 2017-05-22 07:22:01 +0000
+End: 2017-05-22 07:24:22 +0000
+Ended: YES
+Passed: YES
+Total: 2
+Fail: 0
+Unexpected: 0
+Time: 140.518000
+Log:
+(null)
+
+TestClass: ProjectOfUITestUITests
+testName: test3
+Time: 70.445000
+Ended: YES
+Passed: YES
+Filename: (null)
+Line number: 0
+Error Message: (null)
+Log:
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-05-22 15:22:01.845
+    t =     0.00s     Set Up
+    t =     0.01s         Launch com.Lvmama.ProjectOfUITest
+    t =     5.50s             Wait for app to idle
+    t =     6.91s     Tap "testTextFiled" TextField
+    t =     6.92s         Wait for app to idle
+    t =     7.06s         Find the "testTextFiled" TextField
+    t =     7.06s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =     7.10s             Find: Descendants matching type TextField
+    t =     7.10s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =     7.21s             Wait for app to idle
+    t =     7.35s         Synthesize event
+    t =     7.48s         Wait for app to idle
+    t =     8.19s     Type 'test3' into "testTextFiled" TextField
+    t =     8.19s         Wait for app to idle
+    t =     8.45s         Find the "testTextFiled" TextField
+    t =     8.46s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =     8.53s             Find: Descendants matching type TextField
+    t =     8.53s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =     8.64s             Wait for app to idle
+    t =     8.86s         Synthesize event
+    t =     8.99s         Wait for app to idle
+    t =     9.17s     Long press "testTextFiled" TextField
+    t =     9.17s         Wait for app to idle
+    t =     9.33s         Find the "testTextFiled" TextField
+    t =     9.33s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =     9.39s             Find: Descendants matching type TextField
+    t =     9.39s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =     9.50s             Wait for app to idle
+    t =     9.85s         Synthesize event
+    t =    69.93s         Wait for app to idle
+    t =    70.24s     Tear Down
+
+
+TestClass: ProjectOfUITestUITests
+testName: test4
+Time: 70.072000
+Ended: YES
+Passed: YES
+Filename: (null)
+Line number: 0
+Error Message: (null)
+Log:
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-05-22 15:23:12.291
+    t =     0.00s     Set Up
+    t =     0.10s         Launch com.Lvmama.ProjectOfUITest
+    t =     0.23s             Terminate com.Lvmama.ProjectOfUITest:50027
+    t =     5.46s             Wait for app to idle
+    t =     6.90s     Tap "testTextFiled" TextField
+    t =     6.90s         Wait for app to idle
+    t =     7.03s         Find the "testTextFiled" TextField
+    t =     7.03s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =     7.08s             Find: Descendants matching type TextField
+    t =     7.08s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =     7.19s             Wait for app to idle
+    t =     7.33s         Synthesize event
+    t =     7.45s         Wait for app to idle
+    t =     7.62s     Type 'test4' into "testTextFiled" TextField
+    t =     7.62s         Wait for app to idle
+    t =     7.76s         Find the "testTextFiled" TextField
+    t =     7.76s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =     7.83s             Find: Descendants matching type TextField
+    t =     7.83s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =     7.94s             Wait for app to idle
+    t =     8.08s         Synthesize event
+    t =     8.21s         Wait for app to idle
+    t =     8.74s     Long press "testTextFiled" TextField
+    t =     8.74s         Wait for app to idle
+    t =     9.06s         Find the "testTextFiled" TextField
+    t =     9.06s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =     9.11s             Find: Descendants matching type TextField
+    t =     9.11s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =     9.22s             Wait for app to idle
+    t =     9.46s         Synthesize event
+    t =    69.55s         Wait for app to idle
+    t =    69.87s     Tear Down
+
+
+
+Test: Selected tests
+Start: 2017-05-22 07:40:57 +0000
+End: 2017-05-22 07:42:03 +0000
+Ended: YES
+Passed: NO
+Total: 1
+Fail: 1
+Unexpected: 1
+Time: 65.934000
+Log:
+XCTestOutputBarrierXCTestOutputBarrier
+
+
+Test: ProjectOfUITestUITests.xctest
+Start: 2017-05-22 07:40:57 +0000
+End: 2017-05-22 07:42:03 +0000
+Ended: YES
+Passed: NO
+Total: 1
+Fail: 1
+Unexpected: 1
+Time: 65.932000
+Log:
+(null)
+
+Test: ProjectOfUITestUITests
+Start: 2017-05-22 07:40:57 +0000
+End: 2017-05-22 07:42:03 +0000
+Ended: YES
+Passed: NO
+Total: 1
+Fail: 1
+Unexpected: 1
+Time: 65.932000
+Log:
+(null)
+
+TestClass: ProjectOfUITestUITests
+testName: test2
+Time: 65.931000
+Ended: YES
+Passed: NO
+Filename: /Users/sunyanguo/Documents/lvioscode/ios_app/ProjectOfUITest/ProjectOfUITestUITests/ProjectOfUITestUITests.m
+Line number: 25
+Error Message: -[ProjectOfUITestUITests test2] : App state is still not running, state = Not Running
+Log:
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-05-22 15:40:57.921
+    t =     0.00s     Set Up
+    t =     0.00s         Launch com.Lvmama.ProjectOfUITest
+    t =    65.93s             Assertion Failure: ProjectOfUITestUITests.m:25: App state is still not running, state = Not Running
+/Users/sunyanguo/Documents/lvioscode/ios_app/ProjectOfUITest/ProjectOfUITestUITests/ProjectOfUITestUITests.m:25: error: -[ProjectOfUITestUITests test2] : App state is still not running, state = Not Running
+XCTestOutputBarrier    t =    65.93s     Tear Down
+
+
+
+Test: Selected tests
+Start: 2017-05-22 07:46:36 +0000
+End: 2017-05-22 07:47:41 +0000
+Ended: YES
+Passed: NO
+Total: 1
+Fail: 1
+Unexpected: 1
+Time: 64.936000
+Log:
+XCTestOutputBarrierXCTestOutputBarrier
+
+
+Test: ProjectOfUITestUITests.xctest
+Start: 2017-05-22 07:46:36 +0000
+End: 2017-05-22 07:47:41 +0000
+Ended: YES
+Passed: NO
+Total: 1
+Fail: 1
+Unexpected: 1
+Time: 64.935000
+Log:
+(null)
+
+Test: ProjectOfUITestUITests
+Start: 2017-05-22 07:46:36 +0000
+End: 2017-05-22 07:47:41 +0000
+Ended: YES
+Passed: NO
+Total: 1
+Fail: 1
+Unexpected: 1
+Time: 64.935000
+Log:
+(null)
+
+TestClass: ProjectOfUITestUITests
+testName: test2
+Time: 64.934000
+Ended: YES
+Passed: NO
+Filename: /Users/sunyanguo/Documents/lvioscode/ios_app/ProjectOfUITest/ProjectOfUITestUITests/ProjectOfUITestUITests.m
+Line number: 25
+Error Message: -[ProjectOfUITestUITests test2] : App state is still not running, state = Not Running
+Log:
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-05-22 15:46:36.686
+    t =     0.00s     Set Up
+    t =     0.01s         Launch com.Lvmama.ProjectOfUITest
+    t =    64.93s             Assertion Failure: ProjectOfUITestUITests.m:25: App state is still not running, state = Not Running
+/Users/sunyanguo/Documents/lvioscode/ios_app/ProjectOfUITest/ProjectOfUITestUITests/ProjectOfUITestUITests.m:25: error: -[ProjectOfUITestUITests test2] : App state is still not running, state = Not Running
+XCTestOutputBarrier    t =    64.93s     Tear Down
+
+

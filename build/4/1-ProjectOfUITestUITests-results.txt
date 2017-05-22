@@ -1,0 +1,161 @@
+
+Test: Selected tests
+Start: 2017-05-22 07:40:30 +0000
+End: 2017-05-22 07:41:45 +0000
+Ended: YES
+Passed: YES
+Total: 1
+Fail: 0
+Unexpected: 0
+Time: 74.779000
+Log:
+XCTestOutputBarrierXCTestOutputBarrier
+
+
+Test: ProjectOfUITestUITests.xctest
+Start: 2017-05-22 07:40:30 +0000
+End: 2017-05-22 07:41:45 +0000
+Ended: YES
+Passed: YES
+Total: 1
+Fail: 0
+Unexpected: 0
+Time: 74.778000
+Log:
+(null)
+
+Test: ProjectOfUITestUITests
+Start: 2017-05-22 07:40:30 +0000
+End: 2017-05-22 07:41:45 +0000
+Ended: YES
+Passed: YES
+Total: 1
+Fail: 0
+Unexpected: 0
+Time: 74.777000
+Log:
+(null)
+
+TestClass: ProjectOfUITestUITests
+testName: test4
+Time: 74.777000
+Ended: YES
+Passed: YES
+Filename: (null)
+Line number: 0
+Error Message: (null)
+Log:
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-05-22 15:40:30.929
+    t =     0.00s     Set Up
+    t =     0.01s         Launch com.Lvmama.ProjectOfUITest
+    t =     6.79s             Wait for app to idle
+    t =     9.78s     Tap "testTextFiled" TextField
+    t =     9.78s         Wait for app to idle
+    t =    10.02s         Find the "testTextFiled" TextField
+    t =    10.02s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =    10.08s             Find: Descendants matching type TextField
+    t =    10.08s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =    10.19s             Wait for app to idle
+    t =    10.36s         Synthesize event
+    t =    10.49s         Wait for app to idle
+    t =    11.24s     Type 'test4' into "testTextFiled" TextField
+    t =    11.24s         Wait for app to idle
+    t =    11.51s         Find the "testTextFiled" TextField
+    t =    11.51s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =    11.61s             Find: Descendants matching type TextField
+    t =    11.61s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =    11.72s             Wait for app to idle
+    t =    11.93s         Synthesize event
+    t =    12.11s         Wait for app to idle
+    t =    12.32s     Long press "testTextFiled" TextField
+    t =    12.32s         Wait for app to idle
+    t =    13.20s         Find the "testTextFiled" TextField
+    t =    13.20s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =    13.30s             Find: Descendants matching type TextField
+    t =    13.30s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =    13.41s             Wait for app to idle
+    t =    14.04s         Synthesize event
+    t =    74.15s         Wait for app to idle
+    t =    74.57s     Tear Down
+
+
+
+Test: Selected tests
+Start: 2017-05-22 07:45:48 +0000
+End: 2017-05-22 07:47:11 +0000
+Ended: YES
+Passed: YES
+Total: 1
+Fail: 0
+Unexpected: 0
+Time: 82.690000
+Log:
+(null)
+
+Test: ProjectOfUITestUITests.xctest
+Start: 2017-05-22 07:45:48 +0000
+End: 2017-05-22 07:47:11 +0000
+Ended: YES
+Passed: YES
+Total: 1
+Fail: 0
+Unexpected: 0
+Time: 82.689000
+Log:
+(null)
+
+Test: ProjectOfUITestUITests
+Start: 2017-05-22 07:45:48 +0000
+End: 2017-05-22 07:47:11 +0000
+Ended: YES
+Passed: YES
+Total: 1
+Fail: 0
+Unexpected: 0
+Time: 82.688000
+Log:
+(null)
+
+TestClass: ProjectOfUITestUITests
+testName: test4
+Time: 82.688000
+Ended: YES
+Passed: YES
+Filename: (null)
+Line number: 0
+Error Message: (null)
+Log:
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-05-22 15:45:48.344
+    t =     0.00s     Set Up
+    t =     0.01s         Launch com.Lvmama.ProjectOfUITest
+    t =    13.57s             Wait for app to idle
+    t =    14.81s     Tap "testTextFiled" TextField
+    t =    14.82s         Wait for app to idle
+    t =    14.96s         Find the "testTextFiled" TextField
+    t =    14.97s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =    15.03s             Find: Descendants matching type TextField
+    t =    15.03s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =    15.14s             Wait for app to idle
+    t =    15.28s         Synthesize event
+    t =    15.42s         Wait for app to idle
+    t =    17.49s     Type 'test4' into "testTextFiled" TextField
+    t =    17.49s         Wait for app to idle
+    t =    18.59s         Find the "testTextFiled" TextField
+    t =    18.59s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =    18.68s             Find: Descendants matching type TextField
+    t =    18.68s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =    18.79s             Wait for app to idle
+    t =    20.58s         Synthesize event
+    t =    20.81s         Wait for app to idle
+    t =    21.03s     Long press "testTextFiled" TextField
+    t =    21.03s         Wait for app to idle
+    t =    21.24s         Find the "testTextFiled" TextField
+    t =    21.24s             Snapshot accessibility hierarchy for com.Lvmama.ProjectOfUITest
+    t =    21.32s             Find: Descendants matching type TextField
+    t =    21.32s             Find: Elements matching predicate '"testTextFiled" IN identifiers'
+    t =    21.44s             Wait for app to idle
+    t =    21.86s         Synthesize event
+    t =    82.17s         Wait for app to idle
+    t =    82.48s     Tear Down
+
+

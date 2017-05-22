@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Selected tests" tests="1" failures="1" errors="1" time="64.936000">
+  <testsuite tests="1" failures="1" errors="1" time="64.935000" timestamp="2017-05-22T15:46:36GMT+08:00" name="ProjectOfUITestUITests.xctest">
+    <testsuite tests="1" failures="1" errors="1" time="64.935000" timestamp="2017-05-22T15:46:36GMT+08:00" name="ProjectOfUITestUITests">
+      <testcase classname="ProjectOfUITestUITests" name="test2" time="64.934000">
+        <failure type="Failure" message="-[ProjectOfUITestUITests test2] : App state is still not running, state = Not Running">
+/Users/sunyanguo/Documents/lvioscode/ios_app/ProjectOfUITest/ProjectOfUITestUITests/ProjectOfUITestUITests.m:25
+        </failure>
+        <error type="Error"/>
+        <system-out>
+XCTestOutputBarrier    t =     0.00s     Start Test at 2017-05-22 15:46:36.686
+    t =     0.00s     Set Up
+    t =     0.01s         Launch com.Lvmama.ProjectOfUITest
+    t =    64.93s             Assertion Failure: ProjectOfUITestUITests.m:25: App state is still not running, state = Not Running
+/Users/sunyanguo/Documents/lvioscode/ios_app/ProjectOfUITest/ProjectOfUITestUITests/ProjectOfUITestUITests.m:25: error: -[ProjectOfUITestUITests test2] : App state is still not running, state = Not Running
+XCTestOutputBarrier    t =    64.93s     Tear Down
+        </system-out>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testsuites>
+

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ProjectOfUITest.xcscheme</key>
+		<key>ProjectOfUITest.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -13,6 +13,11 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>9DD01A221ED2BC2A003E9E7B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9DD01A401ED2BC36003E9E7B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

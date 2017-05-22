@@ -1,0 +1,111 @@
+--------------
+Run Statistics
+--------------
+Start Time:           2017-05-22 07:24:35 +0000
+End Time:             2017-05-22 07:26:18 +0000
+Total execution time: 103.626819 seconds
+
+Times Taken
+-----------
+[Attempt 1] Create Simulator:                                0.400001 seconds
+[Attempt 1] Install Application:                             16.604329 seconds
+[Attempt 1] Launch Application:                              0.000000 seconds
+[Attempt 1] Run Tests:                                       74.135433 seconds
+All Tests:                                                   69.926018 seconds
+[Attempt 1] {[Selected tests]}:                              69.925955 seconds
+[Attempt 1] {[ProjectOfUITestUITests.xctest]}:               69.921158 seconds
+[Attempt 1] {[ProjectOfUITestUITests]}:                      69.917872 seconds
+[Attempt 1] [ProjectOfUITestUITests/test5]:                  69.911356 seconds
+[Attempt 1] Delete Simulator:                                12.357061 seconds
+
+Summary
+-------
+Total Tests Executed:           1
+Failed Tests (includes errors): 0
+Error Tests:                    0
+Timeout due to test run-time:   0
+Timeout due to no output:       0
+Retries:                        0
+Application Crashes:            0
+Simulator Crashes:              0
+Simulator Creation Failures:    0
+Simulator Deletion Failures:    0
+App Install Failures:           0
+App Launch Failures:            0
+
+Exit Code: 0
+
+--------------
+Run Statistics
+--------------
+Start Time:           2017-05-22 07:39:04 +0000
+End Time:             2017-05-22 07:43:18 +0000
+Total execution time: 254.104975 seconds
+
+Times Taken
+-----------
+[Attempt 1] Create Simulator:                                116.452494 seconds
+[Attempt 1] Install Application:                             162.329491 seconds
+[Attempt 1] Launch Application:                              0.000000 seconds
+[Attempt 1] Run Tests:                                       206.061490 seconds
+All Tests:                                                   71.383047 seconds
+[Attempt 1] {[Selected tests]}:                              71.382992 seconds
+[Attempt 1] {[ProjectOfUITestUITests.xctest]}:               71.380146 seconds
+[Attempt 1] {[ProjectOfUITestUITests]}:                      71.372368 seconds
+[Attempt 1] [ProjectOfUITestUITests/test3]:                  71.366888 seconds
+[Attempt 1] Delete Simulator:                                12.329681 seconds
+
+Summary
+-------
+Total Tests Executed:           1
+Failed Tests (includes errors): 0
+Error Tests:                    0
+Timeout due to test run-time:   0
+Timeout due to no output:       0
+Retries:                        0
+Application Crashes:            0
+Simulator Crashes:              0
+Simulator Creation Failures:    0
+Simulator Deletion Failures:    0
+App Install Failures:           0
+App Launch Failures:            0
+
+Exit Code: 0
+
+--------------
+Run Statistics
+--------------
+Start Time:           2017-05-22 07:44:53 +0000
+End Time:             2017-05-22 07:47:34 +0000
+Total execution time: 160.596304 seconds
+
+Times Taken
+-----------
+[Attempt 1] Create Simulator:                                1.774994 seconds
+[Attempt 1] Install Application:                             26.289998 seconds
+[Attempt 1] Launch Application:                              0.000000 seconds
+[Attempt 1] Run Tests:                                       119.671659 seconds
+All Tests:                                                   71.545283 seconds
+[Attempt 1] {[Selected tests]}:                              71.545216 seconds
+[Attempt 1] {[ProjectOfUITestUITests.xctest]}:               71.541653 seconds
+[Attempt 1] {[ProjectOfUITestUITests]}:                      71.535816 seconds
+[Attempt 1] [ProjectOfUITestUITests/test3]:                  71.528764 seconds
+[Attempt 1] Delete Simulator:                                12.697431 seconds
+
+Summary
+-------
+Total Tests Executed:           1
+Failed Tests (includes errors): 0
+Error Tests:                    0
+Timeout due to test run-time:   0
+Timeout due to no output:       0
+Retries:                        0
+Application Crashes:            0
+Simulator Crashes:              0
+Simulator Creation Failures:    0
+Simulator Deletion Failures:    0
+App Install Failures:           0
+App Launch Failures:            0
+
+Exit Code: 0
+
