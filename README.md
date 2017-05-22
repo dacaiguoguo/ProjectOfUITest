@@ -3,6 +3,10 @@ bluepill UITest
 
 并行跑测试用例
 5个模拟器，5个测试用例
+
+# 安装
+把bluepill-v1.1.0下的bluepill和bp放到/usr/local/bin下
+
 ```
 bluepill -c BuildConfig/configBluepill.json
 ```
