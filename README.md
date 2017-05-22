@@ -21,3 +21,5 @@ bluepill -c BuildConfig/configBluepill.json
    "num-sims": 5//模拟器个数
 }
 ```
+
+https://github.com/linkedin/bluepill#flags
